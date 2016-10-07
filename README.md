@@ -1,0 +1,2 @@
+# bigstorebook
+Theme for WordPress
