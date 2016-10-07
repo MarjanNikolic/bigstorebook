@@ -22,22 +22,18 @@
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
-	<main>
-		<section  class= "col-3">
-			<div class= "left-article">
-			</div>
-		</section>
-		<section  class= "main-center">
-				<div class= "center-article">
-					<h1>Center Article</h1>
-				</div>
-		</section>
-		<section  class= "main-right">
-				<div class= "right-article">
-					<h1>Right Article</h1>
-				</div>
-		</section>
-	</main>
-	<?php wp_footer(); ?>
+<main>
+   <section class="container cont-left">
+   
+   </section>
+   <section class="container cont-center">
+       
+   </section>
+   <section class="container cont-right">
+       
+   </section>
+    
+</main>
+<?php wp_footer(); ?>
 </body>
 </html>
